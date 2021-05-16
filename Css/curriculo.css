@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    margin: 0;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 35pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+body{
+    background-color: white;
+}
+.main{
+    margin: 30px 150px 20px 150px;
+}
+div.dados{
+    text-align:center;
+}
+.foto{
+    width: 250px;
+    float: left;
+    margin-top: 20px;
+    margin-right: 20px;
+}
